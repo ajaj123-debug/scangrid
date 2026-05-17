@@ -4,7 +4,7 @@ import { ScannerApp } from "@/components/ScannerApp";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Field Scanner — Fast Barcode Scanning" },
+      { title: "ScanGrid - Fast Barcode Scanning" },
       {
         name: "description",
         content:

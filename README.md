@@ -38,6 +38,7 @@ bun install   # or: npm install
 bun dev       # or: npm run dev
 ```
 
+
 Open the preview URL on your phone. **HTTPS is required** for camera access on mobile browsers — `localhost` works on desktop, but for phone testing use the deployed URL or a tunneling tool (e.g. `ngrok`).
 
 ## Mobile usage notes
