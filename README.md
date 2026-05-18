@@ -4,6 +4,7 @@ A mobile-first, offline-friendly continuous barcode scanner for real-world field
 
 ## Features
 
+
 - Auto-starts the rear (environment) camera on load
 - Continuous scanning — no tap required per scan
 - Supports **Code 128, Code 39, EAN-13, EAN-8, QR Code**
