@@ -11,7 +11,6 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 
-
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
