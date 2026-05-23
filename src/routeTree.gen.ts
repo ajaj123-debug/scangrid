@@ -28,8 +28,6 @@ export interface FileRoutesById {
   '/': typeof IndexRoute
 }
 
-
-
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths: '/'
