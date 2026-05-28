@@ -1,9 +1,3 @@
-/* eslint-disable */
-
-// @ts-nocheck
-
-// noinspection JSUnusedGlobalSymbols
-
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 
